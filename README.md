@@ -1,2 +1,2 @@
 # myassineboum.github.io
-Portfolio
+This portfolio was made using HTML, CSS & JavaScript.
